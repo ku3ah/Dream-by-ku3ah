@@ -1,0 +1,36 @@
+{
+    "name": "Dream Theme",
+    "author": "Ku3ah",
+    "title": {
+        "font": "font.otf",
+        "size": 24,
+        "color": "#ffffff"
+    },
+    "hint": {
+        "font": "font.otf",
+        "size": 1,
+        "color": "#ffffff"
+    },
+    "currentpage": {
+        "color": "#ffffff"
+    },
+    "total": {
+        "color": "#ffffff"
+    },
+    "grid": {
+        "font": "font.otf",
+        "grid1x4": 24,
+        "grid3x4": 24,
+        "color": "#ffffff",
+        "selectedcolor": "#ffffff"
+    },
+    "list": {
+        "font": "font.otf",
+        "size": 24,
+        "color": "#ffffff"
+    },
+    "hideLabels": {
+        "icons": true,
+        "hints": true
+    }
+}
